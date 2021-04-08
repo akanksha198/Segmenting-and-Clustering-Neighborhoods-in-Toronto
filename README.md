@@ -1,1 +1,1 @@
-# week-3-project
+# Segmenting and Clustering Neighborhoods in Toronto
